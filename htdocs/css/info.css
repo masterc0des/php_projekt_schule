@@ -1,0 +1,39 @@
+* {
+    font-family: roboto;   
+}
+
+.nav {
+    margin-left: 100px;
+}
+
+.nav-top {
+    margin-top: 2.5rem;
+}
+
+.nav-mid {
+    margin-top: 0.5rem;
+}
+
+.a {
+    font-size: 1.25rem;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+.h1 {
+    font-weight: bolder;
+}
+
+.h3 {
+    margin-top: -2rem;
+}
+
+.ul {
+    list-style-type: none;
+    display: grid;
+}
+
+.li {
+    margin-bottom: 0.25rem;
+}
+

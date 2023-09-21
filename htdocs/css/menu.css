@@ -1,0 +1,54 @@
+* {
+    font-family: roboto;   
+}
+
+.nav {
+    margin-left: 100px;
+}
+
+.nav-top {
+    margin-top: 2.5rem;
+}
+
+.nav-mid {
+    margin-top: 2.75rem;
+}
+
+.a {
+    font-size: 1.25rem;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+.h4, h1 {
+    font-weight: bolder;
+}
+
+.h3 {
+    margin-top: -2rem;
+}
+
+.ul {
+    display: grid;
+    grid-template-columns: repeat(2, 10%);
+    list-style-type: none;
+    display:grid
+}
+
+.li {
+    margin-bottom: 0.25rem;
+}
+
+.button {
+    width: 150px;
+    height: 75px;
+    padding: 20px;
+    border: solid;
+    border-radius: 12px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1rem;
+    color: black;
+    background-color: white;
+    cursor: pointer;
+}

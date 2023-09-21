@@ -1,0 +1,59 @@
+* {
+    font-family: roboto;   
+}
+
+.nav {
+    margin-left: 100px;
+}
+
+.nav-top {
+    margin-top: 2.5rem;
+}
+
+.nav-mid {
+    margin-top: 0.5rem;
+}
+
+.a {
+    font-size: 1.25rem;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+.h4 {
+    font-weight: bolder;
+    font-size: 35px;
+}
+
+.h3 {
+    margin-top: -2rem;
+}
+
+.ul {
+    display: grid;
+    grid-template-columns: repeat(5);
+    list-style-type: none;
+}
+
+.li {
+    margin-bottom: 0.25rem;
+}
+
+table, tr, td {
+    border: 1px solid;
+}
+
+.button {
+    width: 150px;
+    height: 120px;
+    padding: 30px;
+    border: solid;
+    border-radius: 12px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1rem;
+    color: black;
+    background-color: white;
+    margin-bottom: 0.5rem;
+    cursor: pointer;
+}
